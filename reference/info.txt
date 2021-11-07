@@ -1,0 +1,5 @@
+参考：
+https://www.bilibili.com/video/BV1G441117bZ?from=search&seid=12325191954475524031&spm_id_from=333.337.0.0
+
+update state:
+2021-11-07: F407ZG+OV2640+液晶屏 实现实时采集图像，并二值化处理，显示到液晶屏上
